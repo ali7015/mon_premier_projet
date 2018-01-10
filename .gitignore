@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 *.pyc
-__pycache__
+__
+pycache__
 myvenv
 db.sqlite3
 /static
-=======
-*.pyc
-__pycache__
-myvenv
-db.sqlite3
-/static
->>>>>>> 302365be73d91633cca851964ece1b92d88ab47a
 .DS_Store
